@@ -5,8 +5,7 @@
 
 Эмулирует первоначальную инициализацию приложения. Отображается на 2 секунды при запуске приложения. По прошествии 2 секунд, должен отобразиться экран `Список криптовалют`
 
-![](./screens/splash_screen/prototype.png)
-
+<img src="./screens/splash_screen/prototype.png" alt="drawing" width="200"/>
 
 | Номер элемента| Описание           |
 | ------------- |:------------------:|
@@ -15,7 +14,7 @@
 
 ## 2. Список валют
 
-![](./screens/currencies_list/prototype.png)
+<img src="./screens/currencies_list/prototype.png" alt="drawing" width="200"/>
 
 | Номер элемента| Описание           |
 | ------------- |:------------------:|
@@ -30,8 +29,7 @@
 
 ## 3. Детали
 
-![](./screens/details_screen/prototype.png)
-
+<img src="./screens/details_screen/prototype.png" alt="drawing" width="200"/>
 | Номер элемента| Описание           |
 | ------------- |:------------------:|
 | 3.1           | Элемент AppBar. Переход на предыдущий жкран |
@@ -40,8 +38,7 @@
 
 ## 4. Конвертер
 
-![](./screens/converter_screen/prototype.png)
-
+<img src="./screens/converter_screen/prototype.png" alt="drawing" width="200"/>
 | Номер элемента| Описание           |
 | ------------- |:------------------:|
 | 4.1           | Поле ввода конвертируемого значения. Формат - 2 знака после запятой |

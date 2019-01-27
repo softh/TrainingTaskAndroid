@@ -1,12 +1,17 @@
 ## Android приложение "Курсы криптовалют"
 
-### Описание приложения
-Экран содержит следующие экраны:
-* [Splash screen](/screens/splash_screen/README.md)
-* [Список криптовалют](/screens/currencies_list/README.md)
-* [Экран деталей](/screens/details_screen/README.md)
-* [Экран фильтрации](/screens/filter_screen/README.md)
-* [Конвертер](/screens/converter_screen/README.md)
+### Описание экранов приложения
+Приложение должно содержать следующие экраны:
+## Splashscreen
+
+Отображается при открытии приложения на 2 секунды. По прошествии 2 секунд, должен отобразиться экран [Список криптовалют](/screens/currencies_list/README.md)
+![alt-текст](prototype.png )
+
+|               |                    |
+| ------------- |:------------------:|
+| 1.1           | Логотип приложения |
+| 1.2           | Версия приложения  |
+
 
 ### Технические требования
 - Java/Kotlin
